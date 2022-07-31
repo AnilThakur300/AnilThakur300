@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AnilThakur300
 - 👀 I’m interested in AI & ML
 - 🌱 I’m currently learning Python,Machine Learning,Data Science,Deep Learning and AI
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Data Science Projects and Kaggle Competitions.
 - 📫 How to reach me - Cell-9555760300,Email- spartan.neel.thakur@gmail.com
 
 <!---
